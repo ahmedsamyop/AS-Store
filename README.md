@@ -1,5 +1,6 @@
 # AS-Store
-E-Commerce template Front-End <br>
+Online Store Template Named : AS-Store <br>
+E-Commerce Front-End <br>
 In this project create a Responsive and Interactive Design e-commerce website using HTML, CSS and Javascript.
 <br>
 <br>
